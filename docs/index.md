@@ -2,6 +2,11 @@
 
 About FARMIS digital agriculture information service for Papua New Guinea
 
+<figure markdown>
+  ![Merlin](assets/screenshot.png){width="960" align=left }
+  <figcaption>A screenshot of FARMIS App & main features</figcaption>
+</figure>
+
 ## Overview
 
 FARMIS is a comprehensive digital agriculture information services platform designed to provide farmers with access to real-time data and insights for optimized crop production and increased yield.
