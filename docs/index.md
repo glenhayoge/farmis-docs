@@ -24,21 +24,26 @@ A go-to digital platform for farmers to access real-time data and insights
 
 FARMIS is an expansion of MOMIS - MObile Market Information Service, a service introduced by Fresh Produce Development Agency (FPDA) in 2010 in partnership with Digicel & DFAT. FARMIS was developed and launched in 2018 by FPDA.
 
-The contributions made by the following are hereby acknowledged:
 
-Mark Worinu - FPDA Chief Executive Officer
-Joe Koima - Former Program Manager - Information Management & Communication (2018-2020)
-Robert Lutulele - Former Research Policy & Communication Divisional Head (2015-2019)
+**The contributions made by the following are hereby acknowledged**:
 
-Software Developer: Glen Hayoge
+**Mark Worinu** - FPDA Chief Executive Officer  
+**Joe Koima** - Former Program Manager - Information Management & Communication (2018-2020)  
+**Robert Lutulele** - Former Research Policy & Communication Divisional Head (2015-2019)  
+**Software Developer**: Glen Hayoge  
 
-Other Support: NICTA, DAL, UN-FAO, UN-ITU, GSMA
+**Other Support**: NICTA, DAL, UN-FAO, UN-ITU, GSMA
 
-Open Source Information:
+**Open Source Information**:
 
-Frontend - Angular, Typescript, SwiperJs, CapacitorJS, TailwindCSS
-Backend - Python, Django Rest Framework, Django, PostGreSql
-Image/Icons - HeroIcons, Noun Project, Feather Icons, Freepik, Unsplash
-Maps/Weather - Agromonitoring, PNG-NWS, Leaflet, Mapbox, GeoPy, BOM
-Containerisation - Docker, Nginx, Gunicorn
-Source/Version Control - Git, Github
+**Frontend**: - Angular, Typescript, SwiperJs, CapacitorJS, TailwindCSS
+
+**Backend**:- Python, Django Rest Framework, Django, PostGreSql
+
+**Image/Icons**: - HeroIcons, Noun Project, Feather Icons, Freepik, Unsplash
+
+**Maps/Weather**: - Agromonitoring, PNG-NWS, Leaflet, Mapbox, GeoPy, BOM
+
+**Containerisation**: - Docker, Nginx, Gunicorn
+
+**Source/Version Control** - Git, Github
