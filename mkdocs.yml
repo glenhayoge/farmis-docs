@@ -1,6 +1,6 @@
 site_name: Documentation
 theme:
-  logo: assets/farmis_logo_3.png
+  logo: assets/farmis_logo.png
   name: material
   features:
     - navigation.tabs
