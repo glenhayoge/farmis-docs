@@ -1,6 +1,6 @@
-site_name: FARMIS Documentation
+site_name: Documentation
 theme:
-  logo: assets/merlin_logo.png
+  logo: assets/farmis_logo_1.png
   name: material
   features:
     - navigation.tabs
