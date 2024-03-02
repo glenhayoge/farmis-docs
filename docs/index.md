@@ -1,9 +1,9 @@
 # About FARMIS
 
-About FARMIS digital agriculture information service for Papua New Guinea
+Ensuring seamless access to agricultural extension information services
 
 <figure markdown>
-  ![Merlin](assets/screenshot.png){width="960" align=left }
+  ![FARMIS](assets/screenshot.png){width="960" align=left }
   <figcaption>A screenshot of FARMIS App & main features</figcaption>
 </figure>
 
